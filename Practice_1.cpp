@@ -29,7 +29,7 @@ int main()
          if ( credit > 9 )
          {
             cout << "\nYou have " << credit << " points \n"
-               <<"Would you like to redeem a free yogurt?";
+               <<"Would you like to redeem a free yogurt? :)";
             cin >> userOption;
             letter = userOption[0];
 
